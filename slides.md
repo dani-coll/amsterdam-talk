@@ -19,6 +19,13 @@ class: text-left
 transition: fade-out
 ---
 
+---
+title: Github
+src: ./pages/github/github.md
+class: text-left
+transition: fade-out
+---
+
 # Welcome to Slidev
 
 Presentation slides for developers
