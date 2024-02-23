@@ -14,7 +14,7 @@
 </ul>
 
 <v-click>
-	<img class="not-recommended" src="assets/not-recommended.png" width="300" style="position: absolute; right: 100px; bottom: 100px" ></img>
+	<img src="assets/not-recommended.png" width="300" style="position: absolute; right: 100px; bottom: 100px" ></img>
 </v-click>
 
 <img src="assets/dt-white.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px; opacity: .2;" />
