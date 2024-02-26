@@ -1,9 +1,9 @@
 ---
-src: ./github-1.md
+src: ./debugging-1.md
 class: text-left
 ---
 
 ---
-src: ./github-2.md
+src: ./debugging-2.md
 class: text-left
 ---

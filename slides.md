@@ -25,7 +25,13 @@ transition: fade-out
 ---
 
 ---
-src: ./pages/github/github.md
+src: ./pages/copilot/copilot.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/video-editing/video-editing.md
 class: text-left
 transition: fade-out
 ---
