@@ -1,11 +1,13 @@
 
 <h2>Structure</h2>
 <ul>
-	<li></li>
+	<li>Material UI(React's version of Google's Material Design)</li>
+	<li>Jay UI, the improved version</li>
 	<br>
 	<v-click> 
 		<h2>Key takeaways</h2>
-		<li></li>
+		<li>Good introduction</li>
+		<li>CSS variables importance</li>
 	</v-click>
 </ul>
 

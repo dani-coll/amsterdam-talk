@@ -7,7 +7,9 @@
 	<br>
 	<v-click> 
 		<h2>Key takeaways</h2>
-		<li></li>
+		<li>Many ways to encode images, some are very intuitive</li>
+		<li>WASM isn't faster than Javascript for video decoding</li>
+		<li>Decoding timestamp vs presentational timestamp</li>
 	</v-click>
 </ul>
 
