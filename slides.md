@@ -37,6 +37,36 @@ transition: fade-out
 ---
 
 ---
+src: ./pages/debugging/debugging.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/fast-websites/fast-websites.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/pkce/pkce.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/qwik/qwik.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/scaling-frontend/scaling-frontend.md
+class: text-left
+transition: fade-out
+---
+
+---
 title: Headless Components
 src: ./pages/headless-components/headless-components.md
 class: text-left

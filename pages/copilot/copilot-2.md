@@ -7,7 +7,7 @@
 	<v-click> 
 		<h2>Key takeaways</h2>
 		<li>Drawbacks</li>
-		<img class="drawbacks" src="assets/github-drawbacks.png" height="100" width="300" style="margin-left:50px"></img>
+		<img class="drawbacks" src="assets/github-drawbacks.png" height="100" width="200" style="margin-left:50px"></img>
 		<li>Not yet allowing project context, only open tabs</li>
 		<li>Limited on IntelliJ</li>
 	</v-click>

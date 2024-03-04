@@ -1,11 +1,14 @@
 
 <h2>Structure</h2>
 <ul>
-	<li></li>
+	<li>Ways to use web code in a native mobile app</li>
+	<li>How PKCE(Proof key code exchange) works for authentication</li>
 	<br>
 	<v-click> 
 		<h2>Key takeaways</h2>
-		<li></li>
+		<li>Webviews insecure</li>
+		<li>Embedded browser is the chosen one</li>
+		<li>Mobile processes are sandboxed(deep links)</li>
 	</v-click>
 </ul>
 
