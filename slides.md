@@ -19,19 +19,25 @@ transition: fade-out
 ---
 
 ---
-src: ./pages/fintech/fintech.md
+src: ./pages/qwik/qwik.md
 class: text-left
 transition: fade-out
 ---
 
 ---
-src: ./pages/copilot/copilot.md
+src: ./pages/scaling-frontend/scaling-frontend.md
 class: text-left
 transition: fade-out
 ---
 
 ---
 src: ./pages/video-editing/video-editing.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/zod/zod.md
 class: text-left
 transition: fade-out
 ---
@@ -49,19 +55,25 @@ transition: fade-out
 ---
 
 ---
+src: ./pages/copilot/copilot.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/pixel-perfect/pixel-perfect.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/fintech/fintech.md
+class: text-left
+transition: fade-out
+---
+
+---
 src: ./pages/pkce/pkce.md
-class: text-left
-transition: fade-out
----
-
----
-src: ./pages/qwik/qwik.md
-class: text-left
-transition: fade-out
----
-
----
-src: ./pages/scaling-frontend/scaling-frontend.md
 class: text-left
 transition: fade-out
 ---

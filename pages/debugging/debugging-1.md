@@ -7,6 +7,7 @@
 		right: 0;
 	} 
 </style>
+<!-- https://youtu.be/XAlefWniwz0?si=rs7fTZ_NlsZu_dOA -->
 <img class="full-screen" src="assets/debugging.png" style="width: -webkit-fill-available">
 
 <img src="assets/dt-white.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px; opacity: .2;" />

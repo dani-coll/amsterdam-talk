@@ -8,6 +8,11 @@
 		<h2>Key takeaways</h2>
 		<li>zod guarantees us to react of unexpected types at runtime</li>
 	</v-click>
+	<br>
+	<v-click> 
+		<h2>Internal usage</h2>
+		<li>Key piece of the DQLBuilder</li>
+	</v-click>
 </ul>
 
 <v-click>
