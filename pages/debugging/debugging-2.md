@@ -2,7 +2,7 @@
 <h2>Structure</h2>
 <ul>
 	<li>Principles of debugging</li>
-	<li>Debugging toots</li>
+	<li>Debugging tools</li>
 	<li>Replay demo</li>
 	<br>
 	<v-click> 
