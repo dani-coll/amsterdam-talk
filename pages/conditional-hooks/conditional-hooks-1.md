@@ -1,6 +1,19 @@
 <!--https://portal.gitnation.org/contents/you-cant-use-hooks-conditionally-or-can-you-->
 
-<h2>You can't use Hooks conditionally ... or can you?</h2>
-<h5>Charlotte Isambert</h5>
+## You can't use Hooks conditionally ... or can you?
+###### Charlotte Isambert
+
+<v-click>
+  <img src="pages/conditional-hooks/img-1.png" width=100% alt="tree rendering" style="position: absolute; bottom: 0px; right: 0; opacity: 1;" />
+</v-click>
+
+<v-click>
+  <img src="pages/conditional-hooks/img-2.png" width=100% alt="tree rendering" style="position: absolute; bottom: 0px; right: 0; opacity: 1;" />
+</v-click>
+
+<v-click>
+  <img src="pages/conditional-hooks/img-3.png" width=100% alt="tree rendering" style="position: absolute; bottom: 0px; right: 0; opacity: 1;" />
+</v-click>
+
 
 <img src="assets/dt-white.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px; opacity: .2;" />

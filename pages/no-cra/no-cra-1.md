@@ -2,7 +2,30 @@
 
 <!-- THIS SECTION HAS MANY CHANCES OF BEING SKIPPED -->
 
-<h2>No Create React Application</h2>
-<h5>Juri Strumpflohner</h5>
+## No Create React Application
+###### Juri Strumpflohner
+
+
+######
+######
+######
+
+###### Problem
+***
+######
+> Create React App is no longer the default option.
+######
+> Official React Documentation only recomends frameworks.
+
+######
+######
+######
+
+###### Solution
+***
+######
+There's an alternative created by **_NX_** that uses **_Vite_** in the background and generates a similar project structure.
+(For those who still want to use React vanilla without any kind of framwork).
+
 
 <img src="assets/dt-white.png" width=50 alt="logo Dynatrace" style="position: absolute; bottom: 35px; right: 50px; opacity: .2;" />

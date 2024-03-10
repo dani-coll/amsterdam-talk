@@ -93,27 +93,6 @@ transition: fade-out
 ---
 
 ---
-title: NextJS Metamorphosis
-src: ./pages/nextjs-metamorphosis/nextjs-metamorphosis.md
-class: text-left
-transition: fade-out
----
-
----
-title: Build Videogames
-src: ./pages/build-videogames/build-videogames.md
-class: text-left
-transition: fade-out
----
-
----
-title: Code Signing
-src: ./pages/code-signing/code-signing.md
-class: text-left
-transition: fade-out
----
-
----
 title: Conditional Hooks
 src: ./pages/conditional-hooks/conditional-hooks.md
 class: text-left
