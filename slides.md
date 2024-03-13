@@ -25,6 +25,12 @@ transition: fade-out
 ---
 
 ---
+src: ./pages/4-takeaways.md
+class: text-left
+transition: fade-out
+---
+
+---
 src: ./pages/qwik/qwik.md
 class: text-left
 transition: fade-out
@@ -67,24 +73,6 @@ transition: fade-out
 ---
 
 ---
-src: ./pages/pixel-perfect/pixel-perfect.md
-class: text-left
-transition: fade-out
----
-
----
-src: ./pages/fintech/fintech.md
-class: text-left
-transition: fade-out
----
-
----
-src: ./pages/pkce/pkce.md
-class: text-left
-transition: fade-out
----
-
----
 title: Headless Components
 src: ./pages/headless-components/headless-components.md
 class: text-left
@@ -108,6 +96,24 @@ transition: fade-out
 ---
 title: React Concurrency
 src: ./pages/react-concurrency/react-concurrency.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/pixel-perfect/pixel-perfect.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/fintech/fintech.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/pkce/pkce.md
 class: text-left
 transition: fade-out
 ---
