@@ -3,7 +3,7 @@ title: React Summit 2 Amsterdam
 src: ./pages/1-landing.md
 theme: the-unnamed
 class: text-center
-background: ./assets/reactsummit.webp
+background: ./assets/papa.webp
 highlighter: shiki
 lineNumbers: false
 transition: slide-left
@@ -14,6 +14,12 @@ drawings:
 
 ---
 src: ./pages/2-presenters.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/3-structure-joke.md
 class: text-left
 transition: fade-out
 ---
