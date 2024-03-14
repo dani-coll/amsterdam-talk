@@ -3,6 +3,8 @@
 ## Headless Components
 ###### Omry Nachman
 
+<img src="pages/headless-components/cover.png" width=75% alt="tree rendering" style="position: absolute; bottom: 11%; right: 12%; opacity: 1;" />
+
 <v-click>
   <img src="pages/headless-components/img-1.png" width=100% alt="tree rendering" style="position: absolute; bottom: 0px; right: 0; opacity: 1;" />
 </v-click>

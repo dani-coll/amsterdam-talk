@@ -118,3 +118,17 @@ src: ./pages/pkce/pkce.md
 class: text-left
 transition: fade-out
 ---
+
+---
+title: React Summit 2 Amsterdam
+src: ./pages/5-questions.md
+theme: the-unnamed
+class: text-center
+background: ./assets/papa.webp
+highlighter: shiki
+lineNumbers: false
+transition: slide-left
+mdc: true
+drawings:
+  persist: false
+---
