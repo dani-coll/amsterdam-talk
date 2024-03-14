@@ -43,25 +43,6 @@ transition: fade-out
 ---
 
 ---
-src: ./pages/zod/zod.md
-class: text-left
-transition: fade-out
----
-
----
-src: ./pages/scaling-frontend/scaling-frontend.md
-class: text-left
-transition: fade-out
----
-
-
----
-src: ./pages/copilot/copilot.md
-class: text-left
-transition: fade-out
----
-
----
 src: ./pages/qwik/qwik.md
 class: text-left
 transition: fade-out
