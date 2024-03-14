@@ -1,5 +1,5 @@
 
-<h1>Integration with React</h1>
+<h1>Islands - Qwik Integration with React</h1>
 
 <img src="assets/demo.webp" width="400" style="position: absolute; right: 50%; bottom: 100px; transform: translateX(50%)"></img>
 

@@ -1,4 +1,3 @@
-
 <h1>Hoffman Encoding</h1>
 <img src="assets/video-he-2.png" width=500/>
 

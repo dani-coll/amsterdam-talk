@@ -2,16 +2,16 @@
 <h2>Replay features</h2>
 <ul>
 	<v-click>
-		<li>Check how many times a line has been run</li>
+		<li>Check how many times a line has been run</li><br>
 	</v-click>
 	<v-click>
-		<li>Add a log and see instantly what was the value on each iteration</li>
+		<li>Add a log and see instantly what was the value on each iteration</li><br>
 	</v-click>
 	<v-click>
-		<li>Go to any point in time</li>
+		<li>Go to any point in time</li><br>
 	</v-click>
 	<v-click>
-		<li>Go to the code that dispatched the event (click, key up, etc)</li>
+		<li>Go to the code that dispatched the event (click, key up, etc)</li><br>
 	</v-click>
 	<v-click>
 		<li>Add comments & share</li>

@@ -1,5 +1,5 @@
 ---
-title: React Summit 2 Amsterdam
+title: React Summit
 src: ./pages/1-landing.md
 theme: the-unnamed
 class: text-center
@@ -54,11 +54,6 @@ class: text-left
 transition: fade-out
 ---
 
----
-src: ./pages/fast-websites/fast-websites.md
-class: text-left
-transition: fade-out
----
 
 ---
 src: ./pages/copilot/copilot.md
@@ -96,6 +91,12 @@ transition: fade-out
 ---
 title: React Concurrency
 src: ./pages/react-concurrency/react-concurrency.md
+class: text-left
+transition: fade-out
+---
+
+---
+src: ./pages/fast-websites/fast-websites.md
 class: text-left
 transition: fade-out
 ---
