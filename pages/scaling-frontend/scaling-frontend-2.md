@@ -1,6 +1,4 @@
-<v-click> 
-	<h2>Key takeaways</h2>
-</v-click>
+<h2>Key takeaways</h2>
 <v-click>
 	<li>Tear down the barriers, migrate to monorepo</li>
 </v-click>

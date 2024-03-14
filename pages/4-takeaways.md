@@ -9,9 +9,9 @@
 
 <v-click>
 	<img src="assets/ok-lets-go.gif" width="500" style="position: absolute; right: 50%; bottom: 25px; transform: translateX(50%)" ></img>
-	<audio controls autoplay style="position: absolute; right: 50%; bottom: 0; transform: translateX(50%)">
+	<!--audio controls autoplay style="position: absolute; right: 50%; bottom: 0; transform: translateX(50%)">
   <source src="assets/ok-lets-go.mp3" type="audio/ogg">
-</audio>
+</audio-->
 
 </v-click>
 
