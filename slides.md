@@ -96,30 +96,6 @@ transition: fade-out
 ---
 
 ---
-src: ./pages/fast-websites/fast-websites.md
-class: text-left
-transition: fade-out
----
-
----
-src: ./pages/pixel-perfect/pixel-perfect.md
-class: text-left
-transition: fade-out
----
-
----
-src: ./pages/fintech/fintech.md
-class: text-left
-transition: fade-out
----
-
----
-src: ./pages/pkce/pkce.md
-class: text-left
-transition: fade-out
----
-
----
 title: React Summit 2 Amsterdam
 src: ./pages/5-questions.md
 theme: the-unnamed

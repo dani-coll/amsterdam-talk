@@ -1,14 +1,9 @@
-<h2>Takeaways</h2><br>
+<h2>Spoiler</h2><br>
+
+<h4>Don't worry, some talks were really worth it</h4><br>
 
 <v-click>
-	<li>Some top speakers presented a talk</li><br>
-</v-click>
-<v-click>
-	<li>We learned quite a few tech stuff</li><br>
-</v-click>
-
-<v-click>
-	<img src="assets/ok-lets-go.gif" width="500" style="position: absolute; right: 50%; bottom: 25px; transform: translateX(50%)" ></img>
+	<img src="assets/ok-lets-go.gif" width="500" style="position: absolute; right: 50%; bottom: 100px; transform: translateX(50%)" ></img>
 	<!--audio controls autoplay style="position: absolute; right: 50%; bottom: 0; transform: translateX(50%)">
   <source src="assets/ok-lets-go.mp3" type="audio/ogg">
 </audio-->

@@ -7,7 +7,7 @@
 	<li><b>Presenter:</b> Damn, you should implement it or you will have a problem</li><br>
 </v-click>
 <v-click>
-	<li><b>Presenter:</b> No worries, here is my awesome tool that will fix you that problem :)</li><br>
+	<li style="position: relative"><b>Presenter:</b> No worries, here is my awesome tool that will fix you that problem <img src="assets/vegeta.png" width="50" style="position: absolute; top: 0; right: 150px"></img></li><br>
 </v-click>
 <v-click>
 	<li><b>You:</b> Wait a moment... This tool sponsores the conference</li>

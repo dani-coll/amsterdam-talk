@@ -2,7 +2,7 @@
 <ul>
 	<li>Interesting techniques about video compression</li>
 	<li>WASM isn't faster than Javascript for video decoding</li>
-	<li>Decoding timestamp vs presentational timestamp</li>
+	<li>Why some chunks are loaded instantly</li>
 </ul>
 
 <v-click>
