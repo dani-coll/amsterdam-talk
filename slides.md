@@ -25,7 +25,7 @@ transition: fade-out
 ---
 
 ---
-src: ./pages/4-takeaways.md
+src: ./pages/4-spoiler.md
 class: text-left
 transition: fade-out
 ---
