@@ -1,7 +1,5 @@
 <h2>Key takeaways</h2>
-<li>Engaging talk</li>
-<li>New concepts introduced</li>
-<li>Qwik features & integrations</li>
+<li>Hydration vs Resumability</li>
 
 <v-click>
 	<img src="assets/seal-of-approval.png" width="300" style="position: absolute; right: 100px; bottom: 100px" ></img>

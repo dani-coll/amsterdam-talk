@@ -9,16 +9,6 @@ class: text-left
 ---
 
 ---
-src: ./video-editing-3.md
-class: text-left
----
-
----
-src: ./video-editing-4.md
-class: text-left
----
-
----
 src: ./video-editing-5.md
 class: text-left
 ---
@@ -29,31 +19,12 @@ class: text-left
 ---
 
 ---
-src: ./video-editing-7.md
+src: ./video-editing-3.md
 class: text-left
 ---
 
 ---
-src: ./video-editing-8.md
-class: text-left
----
-
-
----
-src: ./video-editing-9.md
-class: text-left
----
-
-
-
----
-src: ./video-editing-10.md
-class: text-left
----
-
-
----
-src: ./video-editing-11.md
+src: ./video-editing-4.md
 class: text-left
 ---
 

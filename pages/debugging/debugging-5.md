@@ -1,16 +1,6 @@
-
-<h2>Structure</h2>
-<ul>
-	<li>Principles of debugging</li>
-	<li>Debugging tools</li>
-	<li>Replay demo</li>
-	<br>
-	<v-click> 
-		<h2>Key takeaways</h2>
-		<li>Cherry-pick debugging techniques</li>
-		<li>Time travelling with Replay & source maps</li>
-	</v-click>
-</ul>
+<h2>Key takeaways</h2>
+<li>Cherry-pick debugging techniques</li>
+<li>Time travelling with Replay & source maps</li>
 
 <!-- https://youtu.be/XAlefWniwz0?si=HxlgnhPel66pfoL7 -->
 
